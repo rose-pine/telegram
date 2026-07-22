@@ -162,8 +162,8 @@ chat_inFileSelectedIcon: #87B6C5
 chat_inForwardedNameText: #ea9d34
 chat_inInstant: #907aa9
 chat_inInstantSelected: #907aa9
-chat_inLoader: #286983
-chat_inLoaderPhoto: #286983
+chat_inLoader: #d7827e
+chat_inLoaderPhoto: #d7827e
 chat_inLoaderPhotoIcon: #FCFCFC
 chat_inLoaderPhotoIconSelected: #EBF0F5
 chat_inLoaderPhotoSelected: #A2B5C7

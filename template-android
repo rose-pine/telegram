@@ -162,8 +162,8 @@ chat_inFileSelectedIcon: #87B6C5
 chat_inForwardedNameText: $gold
 chat_inInstant: $iris
 chat_inInstantSelected: $iris
-chat_inLoader: $pine
-chat_inLoaderPhoto: $pine
+chat_inLoader: $($pine|$pine|$rose)
+chat_inLoaderPhoto: $($pine|$pine|$rose)
 chat_inLoaderPhotoIcon: #FCFCFC
 chat_inLoaderPhotoIconSelected: #EBF0F5
 chat_inLoaderPhotoSelected: #A2B5C7
