@@ -285,8 +285,8 @@ chat_outLocationBackground: #DAF5C3
 chat_outLocationIcon: #FFFFFF
 chat_outMediaIcon: #c4a7e7
 chat_outMediaIconSelected: #c4a7e7
-chat_outMenu: #FFFFFF
-chat_outMenuSelected: #FFFFFF
+chat_outMenu: #c4a7e7
+chat_outMenuSelected: #c4a7e7
 chat_outPreviewInstantSelectedText: #489943
 chat_outPreviewInstantText: #e0def4
 chat_outPreviewLine: #e0def4

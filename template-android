@@ -106,7 +106,7 @@ chat_emojiPanelBadgeBackground: #4DA6EA
 chat_emojiPanelBadgeText: #FFFFFF
 chat_emojiPanelEmptyText: $subtle
 chat_emojiPanelIcon: $subtle
-chat_emojiPanelIconSelected: $pine
+chat_emojiPanelIconSelected: $iris
 chat_emojiPanelMasksIcon: #FFFFFF
 chat_emojiPanelMasksIconSelected: #62BFE8
 chat_emojiPanelNewTrending: $pine
@@ -167,7 +167,7 @@ chat_inLoaderPhoto: $($pine|$pine|$rose)
 chat_inLoaderPhotoIcon: #FCFCFC
 chat_inLoaderPhotoIconSelected: #EBF0F5
 chat_inLoaderPhotoSelected: #A2B5C7
-chat_inLoaderSelected: $pine
+chat_inLoaderSelected: $($pine|$pine|$rose)
 chat_inLocationBackground: #3A3A4B
 chat_inLocationIcon: $text
 chat_inMediaIcon: $($text|$text|$base)
@@ -285,8 +285,8 @@ chat_outLocationBackground: #DAF5C3
 chat_outLocationIcon: #FFFFFF
 chat_outMediaIcon: $iris
 chat_outMediaIconSelected: $iris
-chat_outMenu: #FFFFFF
-chat_outMenuSelected: #FFFFFF
+chat_outMenu: $iris
+chat_outMenuSelected: $iris
 chat_outPreviewInstantSelectedText: #489943
 chat_outPreviewInstantText: $text
 chat_outPreviewLine: $text
@@ -377,7 +377,7 @@ chats_actionUnreadPressedBackground: #F2F2F2
 chats_archiveBackground: $rose
 chats_archiveIcon: $text
 chats_archivePinBackground: $surface
-chats_archivePullDownBackgroundActive: $pine
+chats_archivePullDownBackgroundActive: $($pine|$pine|$rose)
 chats_archiveText: $text
 chats_attachMessage: $foam
 chats_date: $subtle
@@ -411,11 +411,11 @@ chats_pinnedIcon: $($pine|$pine|$rose)
 chats_pinnedOverlay: $highlightMed
 chats_secretIcon: $gold
 chats_secretName: $gold
-chats_sentCheck: $foam
+chats_sentCheck: $iris
 chats_sentClock: #FF0000
 chats_sentError: $love
 chats_sentErrorIcon: $text
-chats_sentReadCheck: $foam
+chats_sentReadCheck: $iris
 chats_tabletSelectedOverlay: $iris25
 chats_unreadCounter: $love
 chats_unreadCounterMuted: $muted
@@ -510,11 +510,11 @@ emptyListPlaceholder: $muted
 fastScrollActive: #FF0000
 fastScrollInactive: $overlay
 fastScrollText: $text
-featuredStickers_addButton: $pine
+featuredStickers_addButton: $($pine|$pine|$rose)
 featuredStickers_addButtonPressed: $muted
 featuredStickers_addedIcon: $iris
 featuredStickers_buttonProgress: #FF0000
-featuredStickers_buttonText: $text
+featuredStickers_buttonText: $($text|$text|$base)
 featuredStickers_delButton: #D95757
 featuredStickers_delButtonPressed: #C64949
 featuredStickers_removeButtonText: $love

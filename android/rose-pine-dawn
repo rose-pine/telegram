@@ -285,8 +285,8 @@ chat_outLocationBackground: #DAF5C3
 chat_outLocationIcon: #FFFFFF
 chat_outMediaIcon: #907aa9
 chat_outMediaIconSelected: #907aa9
-chat_outMenu: #FFFFFF
-chat_outMenuSelected: #FFFFFF
+chat_outMenu: #907aa9
+chat_outMenuSelected: #907aa9
 chat_outPreviewInstantSelectedText: #489943
 chat_outPreviewInstantText: #575279
 chat_outPreviewLine: #575279
@@ -377,7 +377,7 @@ chats_actionUnreadPressedBackground: #F2F2F2
 chats_archiveBackground: #d7827e
 chats_archiveIcon: #575279
 chats_archivePinBackground: #fffaf3
-chats_archivePullDownBackgroundActive: #286983
+chats_archivePullDownBackgroundActive: #d7827e
 chats_archiveText: #575279
 chats_attachMessage: #56949f
 chats_date: #797593
