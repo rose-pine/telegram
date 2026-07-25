@@ -106,7 +106,7 @@ chat_emojiPanelBadgeBackground: #4DA6EA
 chat_emojiPanelBadgeText: #FFFFFF
 chat_emojiPanelEmptyText: #908caa
 chat_emojiPanelIcon: #908caa
-chat_emojiPanelIconSelected: #31748f
+chat_emojiPanelIconSelected: #c4a7e7
 chat_emojiPanelMasksIcon: #FFFFFF
 chat_emojiPanelMasksIconSelected: #62BFE8
 chat_emojiPanelNewTrending: #31748f
@@ -411,11 +411,11 @@ chats_pinnedIcon: #31748f
 chats_pinnedOverlay: #403d52
 chats_secretIcon: #f6c177
 chats_secretName: #f6c177
-chats_sentCheck: #9ccfd8
+chats_sentCheck: #c4a7e7
 chats_sentClock: #FF0000
 chats_sentError: #eb6f92
 chats_sentErrorIcon: #e0def4
-chats_sentReadCheck: #9ccfd8
+chats_sentReadCheck: #c4a7e7
 chats_tabletSelectedOverlay: #c4a7e725
 chats_unreadCounter: #eb6f92
 chats_unreadCounterMuted: #6e6a86
