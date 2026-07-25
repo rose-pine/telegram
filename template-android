@@ -408,7 +408,7 @@ chats_nameMessageArchived_threeLines: #B8B7C9
 chats_nameMessage_threeLines: $foam
 chats_onlineCircle: $foam
 chats_pinnedIcon: $($pine|$pine|$rose)
-chats_pinnedOverlay: $highlightMed
+chats_pinnedOverlay: $base
 chats_secretIcon: $gold
 chats_secretName: $gold
 chats_sentCheck: $iris

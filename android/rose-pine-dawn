@@ -408,7 +408,7 @@ chats_nameMessageArchived_threeLines: #B8B7C9
 chats_nameMessage_threeLines: #56949f
 chats_onlineCircle: #56949f
 chats_pinnedIcon: #d7827e
-chats_pinnedOverlay: #dfdad9
+chats_pinnedOverlay: #faf4ed
 chats_secretIcon: #ea9d34
 chats_secretName: #ea9d34
 chats_sentCheck: #907aa9
