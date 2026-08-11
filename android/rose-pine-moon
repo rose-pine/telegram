@@ -298,7 +298,7 @@ chat_outReplyLine: #e0def4
 chat_outReplyMediaMessageSelectedText: #c4a7e7
 chat_outReplyMediaMessageText: #c4a7e7
 chat_outReplyMessageText: #e0def4
-chat_outReplyNameText: #e0def4
+chat_outReplyNameText: #c4a7e7
 chat_outSentCheck: #c4a7e7
 chat_outSentCheckRead: #c4a7e7
 chat_outSentCheckReadSelected: #c4a7e7
