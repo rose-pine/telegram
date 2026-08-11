@@ -274,7 +274,7 @@ chat_outFileSelectedIcon: #85BF78
 chat_outForwardedNameText: #575279
 chat_outInstant: #575279
 chat_outInstantSelected: #575279
-chat_outLinkSelectBackground: #FFF9F333
+chat_outLinkSelectBackground: #cecacd
 chat_outLoader: #d7827e
 chat_outLoaderPhoto: #85BF78
 chat_outLoaderPhotoIcon: #DAF5C3
@@ -298,7 +298,7 @@ chat_outReplyLine: #575279
 chat_outReplyMediaMessageSelectedText: #907aa9
 chat_outReplyMediaMessageText: #907aa9
 chat_outReplyMessageText: #575279
-chat_outReplyNameText: #575279
+chat_outReplyNameText: #907aa9
 chat_outSentCheck: #907aa9
 chat_outSentCheckRead: #907aa9
 chat_outSentCheckReadSelected: #907aa9
@@ -408,7 +408,7 @@ chats_nameMessageArchived_threeLines: #B8B7C9
 chats_nameMessage_threeLines: #56949f
 chats_onlineCircle: #56949f
 chats_pinnedIcon: #d7827e
-chats_pinnedOverlay: #dfdad9
+chats_pinnedOverlay: #faf4ed
 chats_secretIcon: #ea9d34
 chats_secretName: #ea9d34
 chats_sentCheck: #907aa9
@@ -549,13 +549,13 @@ key_player_progressCachedBackground: #9893a5
 key_sheet_other: #9893a5
 key_sheet_scrollUp: #9893a5
 listSelectorSDK21: #dfdad914
-location_actionActiveIcon: #b4637a
+location_actionActiveIcon: #907aa9
 location_liveLocationProgress: #00FF00
 location_placeLocationBackground: #56949f
 location_sendLiveLocationBackground: #00FF00
 location_sendLiveLocationIcon: #00FF00
-location_sendLocationBackground: #00FF00
-location_sendLocationIcon: #575279
+location_sendLocationBackground: #d7827e
+location_sendLocationIcon: #faf4ed
 login_progressInner: #9893a5
 login_progressOuter: #9893a5
 musicPicker_buttonBackground: #5CAFEA
@@ -675,7 +675,7 @@ windowBackgroundWhiteBlueText3: #FF0000
 windowBackgroundWhiteBlueText4: #575279
 windowBackgroundWhiteBlueText5: #FF00FF
 windowBackgroundWhiteBlueText6: #FF00FF
-windowBackgroundWhiteBlueText7: #FF00FF
+windowBackgroundWhiteBlueText7: #907aa9
 windowBackgroundWhiteBlueText: #b4637a
 windowBackgroundWhiteGrayIcon: #907aa9
 windowBackgroundWhiteGrayLine: #DBDBDB

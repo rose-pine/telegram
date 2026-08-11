@@ -274,7 +274,7 @@ chat_outFileSelectedIcon: #85BF78
 chat_outForwardedNameText: $text
 chat_outInstant: $text
 chat_outInstantSelected: $text
-chat_outLinkSelectBackground: #FFF9F333
+chat_outLinkSelectBackground: $highlightHigh
 chat_outLoader: $($pine|$pine|$rose)
 chat_outLoaderPhoto: #85BF78
 chat_outLoaderPhotoIcon: #DAF5C3
@@ -298,7 +298,7 @@ chat_outReplyLine: $text
 chat_outReplyMediaMessageSelectedText: $iris
 chat_outReplyMediaMessageText: $iris
 chat_outReplyMessageText: $text
-chat_outReplyNameText: $text
+chat_outReplyNameText: $iris
 chat_outSentCheck: $iris
 chat_outSentCheckRead: $iris
 chat_outSentCheckReadSelected: $iris
@@ -408,7 +408,7 @@ chats_nameMessageArchived_threeLines: #B8B7C9
 chats_nameMessage_threeLines: $foam
 chats_onlineCircle: $foam
 chats_pinnedIcon: $($pine|$pine|$rose)
-chats_pinnedOverlay: $highlightMed
+chats_pinnedOverlay: $base
 chats_secretIcon: $gold
 chats_secretName: $gold
 chats_sentCheck: $iris
@@ -549,13 +549,13 @@ key_player_progressCachedBackground: $muted
 key_sheet_other: $muted
 key_sheet_scrollUp: $muted
 listSelectorSDK21: $highlightMed14
-location_actionActiveIcon: $love
+location_actionActiveIcon: $iris
 location_liveLocationProgress: #00FF00
 location_placeLocationBackground: $foam
 location_sendLiveLocationBackground: #00FF00
 location_sendLiveLocationIcon: #00FF00
-location_sendLocationBackground: #00FF00
-location_sendLocationIcon: $text
+location_sendLocationBackground: $($pine|$pine|$rose)
+location_sendLocationIcon: $($text|$text|$base)
 login_progressInner: $muted
 login_progressOuter: $muted
 musicPicker_buttonBackground: #5CAFEA
@@ -675,7 +675,7 @@ windowBackgroundWhiteBlueText3: #FF0000
 windowBackgroundWhiteBlueText4: $text
 windowBackgroundWhiteBlueText5: #FF00FF
 windowBackgroundWhiteBlueText6: #FF00FF
-windowBackgroundWhiteBlueText7: #FF00FF
+windowBackgroundWhiteBlueText7: $iris
 windowBackgroundWhiteBlueText: $love
 windowBackgroundWhiteGrayIcon: $iris
 windowBackgroundWhiteGrayLine: #DBDBDB
