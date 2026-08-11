@@ -549,12 +549,12 @@ key_player_progressCachedBackground: #6e6a86
 key_sheet_other: #6e6a86
 key_sheet_scrollUp: #6e6a86
 listSelectorSDK21: #403d5214
-location_actionActiveIcon: #eb6f92
+location_actionActiveIcon: #c4a7e7
 location_liveLocationProgress: #00FF00
 location_placeLocationBackground: #9ccfd8
 location_sendLiveLocationBackground: #00FF00
 location_sendLiveLocationIcon: #00FF00
-location_sendLocationBackground: #00FF00
+location_sendLocationBackground: #31748f
 location_sendLocationIcon: #e0def4
 login_progressInner: #6e6a86
 login_progressOuter: #6e6a86
@@ -675,7 +675,7 @@ windowBackgroundWhiteBlueText3: #FF0000
 windowBackgroundWhiteBlueText4: #e0def4
 windowBackgroundWhiteBlueText5: #FF00FF
 windowBackgroundWhiteBlueText6: #FF00FF
-windowBackgroundWhiteBlueText7: #FF00FF
+windowBackgroundWhiteBlueText7: #c4a7e7
 windowBackgroundWhiteBlueText: #eb6f92
 windowBackgroundWhiteGrayIcon: #c4a7e7
 windowBackgroundWhiteGrayLine: #DBDBDB
