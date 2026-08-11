@@ -274,7 +274,7 @@ chat_outFileSelectedIcon: #85BF78
 chat_outForwardedNameText: $text
 chat_outInstant: $text
 chat_outInstantSelected: $text
-chat_outLinkSelectBackground: #FFF9F333
+chat_outLinkSelectBackground: $highlightHigh
 chat_outLoader: $($pine|$pine|$rose)
 chat_outLoaderPhoto: #85BF78
 chat_outLoaderPhotoIcon: #DAF5C3

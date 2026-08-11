@@ -274,7 +274,7 @@ chat_outFileSelectedIcon: #85BF78
 chat_outForwardedNameText: #e0def4
 chat_outInstant: #e0def4
 chat_outInstantSelected: #e0def4
-chat_outLinkSelectBackground: #FFF9F333
+chat_outLinkSelectBackground: #524f67
 chat_outLoader: #31748f
 chat_outLoaderPhoto: #85BF78
 chat_outLoaderPhotoIcon: #DAF5C3
