@@ -31,7 +31,7 @@ activeLineFgError: #eb6f92 // default active line for error state (like code inp
 lightButtonBg: windowBg // default light button background (like buttons in boxes)
 lightButtonBgOver: windowBgOver // default light button background with mouse over
 lightButtonBgRipple: windowBgRipple // default light button ripple effect
-lightButtonFg: windowActiveTextFg // default light button text
+lightButtonFg: windowFg // default light button text
 lightButtonFgOver: lightButtonFg // default light button text with mouse over
 attentionButtonFg: #eb6f92 // default attention button text (like confirm button on log out)
 attentionButtonFgOver: attentionButtonFg // default attention button text with mouse over
