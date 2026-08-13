@@ -470,4 +470,4 @@ sideBarIconFgActive: windowBgActive
 sideBarBadgeBg: $love
 sideBarBadgeBgMuted: $muted
 sideBarBadgeFg: $text
-wallpaper: t.me/bg/Sa2AtaavfFADAAAAtscoNUeEYfU // link to cloud wallpaper
+wallpaper: $(t.me/bg/Sa2AtaavfFADAAAAtscoNUeEYfU|t.me/bg/Sa2AtaavfFADAAAAtscoNUeEYfU|t.me/bg/kEuy4ozG_VMBAAAAMc79KvNqm8g) // link to cloud wallpaper
