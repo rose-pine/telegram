@@ -43,6 +43,6 @@
 This theme was built using [bloom](https://github.com/rose-pine/rose-pine-bloom):
 
 ```sh
-bloom build ./template-android --output ./android/ --prefix $ --format hex
+bloom build ./template-desktop --output ./desktop/ --prefix $ --format hex
 ```
 <!-- BLOOM_BUILD_END -->
