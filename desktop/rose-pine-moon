@@ -11,7 +11,7 @@ windowBoldFg: windowFg // base: fallback for bold text
 windowBoldFgOver: windowBoldFg // text: fallback for bold text with mouse over
 windowBgActive: #3e8fb0 // accent: fallback for accent filled active areas
 windowFgActive: #e0def4 // text: fallback for text on active areas
-windowActiveTextFg: #c4a7e7 // iris: fallback for active text like online status
+windowActiveTextFg: #eb6f92 // love: fallback for active text like online status
 windowShadowFg: #000000 // black: fallback for shadow
 windowShadowFgFallback: windowShadowFg // gray: fallback for shadow without opacity
 shadowFg: #00000018 // most shadows (including opacity)
@@ -135,7 +135,7 @@ dialogsNameFg: windowBoldFg // chat list name text
 dialogsChatIconFg: dialogsNameFg // chat list group or channel icon
 dialogsDateFg: windowSubTextFg // chat list date text
 dialogsTextFg: windowSubTextFg // chat list message text
-dialogsTextFgService: windowActiveTextFg // chat list group sender name text (or media message type text)
+dialogsTextFgService: #c4a7e7 // chat list group sender name text (or media message type text)
 dialogsDraftFg: #DD4B39 // chat list draft label
 dialogsVerifiedIconBg: windowBgActive // chat list verified icon background
 dialogsVerifiedIconFg: windowFgActive // chat list verified icon check
@@ -199,7 +199,7 @@ historyTextInFg: windowFg // inbox message text
 historyTextInFgSelected: historyTextInFg // inbox message selected text or text in a selected message
 historyTextOutFg: windowFg // outbox message text
 historyTextOutFgSelected: historyTextOutFg // outbox message selected text or text in a selected message
-historyLinkInFg: #eb6f92 // inbox message link
+historyLinkInFg: windowActiveTextFg // inbox message link
 historyLinkInFgSelected: historyLinkInFg // inbox message link in a selected text or message
 historyLinkOutFg: historyLinkInFg // outbox message link
 historyLinkOutFgSelected: historyLinkOutFg // outbox message link in a selected text or message
