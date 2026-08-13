@@ -469,5 +469,5 @@ sideBarIconFg: $muted
 sideBarIconFgActive: windowBgActive
 sideBarBadgeBg: $love
 sideBarBadgeBgMuted: $muted
-sideBarBadgeFg: $text
+sideBarBadgeFg: $($text|$text|$base)
 wallpaper: $(t.me/bg/Sa2AtaavfFADAAAAtscoNUeEYfU|t.me/bg/Sa2AtaavfFADAAAAtscoNUeEYfU|t.me/bg/kEuy4ozG_VMBAAAAMc79KvNqm8g) // link to cloud wallpaper
