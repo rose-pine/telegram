@@ -224,30 +224,30 @@ historyUnreadBarBorder: shadowFg // new unread messages bar shadow
 historyUnreadBarFg: #538BB4 // new unread messages bar text
 historyForwardChooseBg: #0000004C // forwarding messages in a large window size "choose recipient" background
 historyForwardChooseFg: windowFgActive // forwarding messages in a large window size "choose recipient" text
-historyPeer1NameFg: #EB6F92 // red group member name
+historyPeer1NameFg: #eb6f92 // red group member name
 historyPeer1NameFgSelected: historyPeer1NameFg // red group member name in a selected message
-historyPeer1UserpicBg: #E17076 // red userpic background
-historyPeer2NameFg: #31748F // green group member name
+historyPeer1UserpicBg: #eb6f92 // red userpic background
+historyPeer2NameFg: #9ccfd8 // green group member name
 historyPeer2NameFgSelected: historyPeer2NameFg // green group member name in a selected message
-historyPeer2UserpicBg: #7BC862 // green userpic background
-historyPeer3NameFg: #F6C177 // yellow group member name
+historyPeer2UserpicBg: #9ccfd8 // green userpic background
+historyPeer3NameFg: #f6c177 // yellow group member name
 historyPeer3NameFgSelected: historyPeer3NameFg // yellow group member name in a selected message
-historyPeer3UserpicBg: #E5CA77 // yellow userpic background
-historyPeer4NameFg: windowActiveTextFg // blue group member name
+historyPeer3UserpicBg: #f6c177 // yellow userpic background
+historyPeer4NameFg: #3e8fb0 // blue group member name
 historyPeer4NameFgSelected: historyPeer4NameFg // blue group member name in a selected message
-historyPeer4UserpicBg: #65AADD // blue userpic background
-historyPeer5NameFg: #C4A7E7 // purple group member name
+historyPeer4UserpicBg: #3e8fb0 // blue userpic background
+historyPeer5NameFg: #c4a7e7 // purple group member name
 historyPeer5NameFgSelected: historyPeer5NameFg // purple group member name in a selected message
-historyPeer5UserpicBg: #A695E7 // purple userpic background
+historyPeer5UserpicBg: #c4a7e7 // purple userpic background
 historyPeer6NameFg: #EB6F92 // pink group member name
 historyPeer6NameFgSelected: historyPeer6NameFg // pink group member name in a selected message
 historyPeer6UserpicBg: #EE7AAE // pink userpic background
 historyPeer7NameFg: #31748F // sea group member name
 historyPeer7NameFgSelected: historyPeer7NameFg // sea group member name in a selected message
 historyPeer7UserpicBg: #6EC9CB // sea userpic background
-historyPeer8NameFg: #F6C177 // orange group member name
+historyPeer8NameFg: #ea9a97 // orange group member name
 historyPeer8NameFgSelected: historyPeer8NameFg // orange group member name in a selected message
-historyPeer8UserpicBg: #FAA774 // orange userpic background
+historyPeer8UserpicBg: #ea9a97 // orange userpic background
 historyPeerUserpicFg: windowFgActive // default userpic initials
 historyPeerSavedMessagesBg: historyPeer4UserpicBg // saved messages userpic background
 historyPeerArchiveUserpicBg: dialogsUnreadBgMuted // archive folder userpic background
