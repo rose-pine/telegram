@@ -249,7 +249,8 @@ historyPeer8NameFg: $rose // orange group member name
 historyPeer8NameFgSelected: historyPeer8NameFg // orange group member name in a selected message
 historyPeer8UserpicBg: $rose // orange userpic background
 historyPeerUserpicFg: windowFgActive // default userpic initials
-historyPeerSavedMessagesBg: historyPeer4UserpicBg // saved messages userpic background
+historyPeerSavedMessagesBg: historyPeer5UserpicBg // saved messages userpic background
+historyPeerSavedMessagesBg2: historyPeerSavedMessagesBg // saved messages userpic background
 historyPeerArchiveUserpicBg: dialogsUnreadBgMuted // archive folder userpic background
 historyScrollBarBg: $highlightMed // scroll bar current rectangle, the bar itself in the chat view (adjusted)
 historyScrollBarBgOver: $highlightMed // scroll bar current rectangle with mouse over it in the chat view (adjusted)
