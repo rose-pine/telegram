@@ -14,6 +14,12 @@
 2. Open it in the Telegram app
 3. Tap `Apply` to instantly apply the theme
 
+<details>
+    <summary>Dawn variant for iOS</summary>
+Currently, the main link has issues. You can use this link instead:
+- https://t.me/addtheme/rosepine_dawn_rose
+</details>
+
 ## Gallery
 
 <table width="100%">
