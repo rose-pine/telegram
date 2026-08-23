@@ -81,7 +81,7 @@ titleButtonBgActiveOver: titleButtonBgOver // custom window title minimize/maxim
 titleButtonFgActiveOver: titleButtonFgOver // custom window title minimize/maximize/restore button icon with mouse over when window is active (Windows only)
 titleButtonCloseBg: titleButtonBg // custom window title close button background when window is inactive (Windows only)
 titleButtonCloseFg: titleButtonFg // custom window title close button icon when window is inactive (Windows only)
-titleButtonCloseBgOver: #EB6F92 // custom window title close button background with mouse over when window is inactive (Windows only)
+titleButtonCloseBgOver: $love // custom window title close button background with mouse over when window is inactive (Windows only)
 titleButtonCloseFgOver: windowFgActive // custom window title close button icon with mouse over when window is inactive (Windows only)
 titleButtonCloseBgActive: titleButtonCloseBg // custom window title close button background when window is active (Windows only)
 titleButtonCloseFgActive: titleButtonCloseFg // custom window title close button icon when window is active (Windows only)
