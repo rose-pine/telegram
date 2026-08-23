@@ -265,10 +265,10 @@ msgInServiceFg: windowActiveTextFg // inbox message information text (like infor
 msgInServiceFgSelected: windowActiveTextFg // inbox selected message information text (like information about a forwarded message original sender)
 msgOutServiceFg: $iris // outbox message information text (like information about a forwarded message original sender)
 msgOutServiceFgSelected: msgOutServiceFg // outbox message information text (like information about a forwarded message original sender)
-msgInShadow: $highlightMed29 // inbox message shadow (below the bubble)
-msgInShadowSelected: $highlightMed29 // inbox selected message shadow (below the bubble)
-msgOutShadow: $highlightMedBD // outbox message shadow (below the bubble)
-msgOutShadowSelected: $highlightMedBD // outbox selected message shadow (below the bubble)
+msgInShadow: $overlay // inbox message shadow (below the bubble)
+msgInShadowSelected: msgInShadow // inbox selected message shadow (below the bubble)
+msgOutShadow: $overlay88 // outbox message shadow (below the bubble)
+msgOutShadowSelected: msgOutShadow // outbox selected message shadow (below the bubble)
 msgInDateFg: $muted // inbox message time text
 msgInDateFgSelected: msgInDateFg // inbox selected message time text
 msgOutDateFg: $muted // outbox message time text

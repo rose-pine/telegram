@@ -265,10 +265,10 @@ msgInServiceFg: windowActiveTextFg // inbox message information text (like infor
 msgInServiceFgSelected: windowActiveTextFg // inbox selected message information text (like information about a forwarded message original sender)
 msgOutServiceFg: #c4a7e7 // outbox message information text (like information about a forwarded message original sender)
 msgOutServiceFgSelected: msgOutServiceFg // outbox message information text (like information about a forwarded message original sender)
-msgInShadow: #44415a29 // inbox message shadow (below the bubble)
-msgInShadowSelected: #44415a29 // inbox selected message shadow (below the bubble)
-msgOutShadow: #44415aBD // outbox message shadow (below the bubble)
-msgOutShadowSelected: #44415aBD // outbox selected message shadow (below the bubble)
+msgInShadow: #393552 // inbox message shadow (below the bubble)
+msgInShadowSelected: msgInShadow // inbox selected message shadow (below the bubble)
+msgOutShadow: #39355288 // outbox message shadow (below the bubble)
+msgOutShadowSelected: msgOutShadow // outbox selected message shadow (below the bubble)
 msgInDateFg: #6e6a86 // inbox message time text
 msgInDateFgSelected: msgInDateFg // inbox selected message time text
 msgOutDateFg: #6e6a86 // outbox message time text
