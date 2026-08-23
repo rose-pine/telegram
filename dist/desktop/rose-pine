@@ -144,7 +144,7 @@ dialogsSentIconFg: #c4a7e7 // chat list sent message tick / double tick icon
 dialogsUnreadBg: windowBgActive // chat list unread badge background for not muted chat
 dialogsUnreadBgMuted: #6e6a86 // chat list unread badge background for muted chat
 dialogsUnreadFg: windowFgActive // chat list unread badge text
-dialogsArchiveFg: #525252 // chat list archive name text
+dialogsArchiveFg: dialogsNameFg // chat list archive name text
 dialogsOnlineBadgeFg: #4DC920 // chat list online status
 dialogsScamFg: dialogsDraftFg // chat list scam label
 dialogsBgOver: windowBgOver // chat list background with mouse over
