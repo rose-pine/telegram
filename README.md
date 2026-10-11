@@ -46,9 +46,16 @@ Currently, the main link has issues. You can use this link instead:
 - [NECOdes](https://github.com/NECOtype)
 ---
 <!-- BLOOM_BUILD_START -->
-This theme was built using [bloom](https://github.com/rose-pine/rose-pine-bloom):
+This theme was built using [bloom](https://github.com/rose-pine/rose-pine-bloom).
 
 ```sh
-bloom build ./templates/desktop --output ./dist/desktop/ --prefix $ --format hex
+# build for android
+make android
+
+# build for ios
+make ios
+
+# build for desktop
+make desktop
 ```
 <!-- BLOOM_BUILD_END -->
