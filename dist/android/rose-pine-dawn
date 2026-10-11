@@ -661,7 +661,7 @@ voipgroup_topPanelGray: #9893a5
 wallpaper: t.me/bg/tUeXeZApMVEmBAAA9mBDRnxxWMg
 wallpaperFileOffset: #FFFFFF
 windowBackgroundCheckText: #575279
-windowBackgroundChecked: #686A99
+windowBackgroundChecked: #f2e9e1
 windowBackgroundGray: #faf4ed
 windowBackgroundGrayShadow: #faf4ed
 windowBackgroundUnchecked: #23222D

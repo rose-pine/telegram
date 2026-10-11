@@ -661,7 +661,7 @@ voipgroup_topPanelGray: $muted
 wallpaper: $(t.me/bg/OaP-q5ggyEakAAAAp7bfAyT9NZs|t.me/bg/OaP-q5ggyEakAAAAp7bfAyT9NZs|t.me/bg/tUeXeZApMVEmBAAA9mBDRnxxWMg)
 wallpaperFileOffset: #FFFFFF
 windowBackgroundCheckText: $text
-windowBackgroundChecked: #686A99
+windowBackgroundChecked: $overlay
 windowBackgroundGray: $base
 windowBackgroundGrayShadow: $base
 windowBackgroundUnchecked: #23222D
