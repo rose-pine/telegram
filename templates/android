@@ -671,7 +671,7 @@ windowBackgroundWhiteBlueButton: $iris
 windowBackgroundWhiteBlueHeader: $iris
 windowBackgroundWhiteBlueIcon: $iris
 windowBackgroundWhiteBlueText2: $iris
-windowBackgroundWhiteBlueText3: #FF0000
+windowBackgroundWhiteBlueText3: $love
 windowBackgroundWhiteBlueText4: $text
 windowBackgroundWhiteBlueText5: #FF00FF
 windowBackgroundWhiteBlueText6: #FF00FF
