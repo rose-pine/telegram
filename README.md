@@ -15,8 +15,8 @@
 3. Tap `Apply` to instantly apply the theme
 
 <details>
-    <summary>Dawn variant for iOS</summary>
-Currently, the main link has issues. You can use this link instead:
+    <summary>Dawn variant for mobile</summary>
+Currently, on Android and iOS, the above Dawn link has issues. You can use this link instead:
 - https://t.me/addtheme/rosepine_dawn_rose
 </details>
 
