@@ -45,10 +45,10 @@ menuIconFgOver: windowFg // default popup menu item icon with mouse over
 menuSubmenuArrowFg: #373737 // default popup menu submenu arrow icon (like in message field context menu in case of RTL system language)
 menuFgDisabled: #6e6a86 // default popup menu item disabled text (like unavailable items in message field context menu)
 menuSeparatorFg: windowBgOver // default popup menu separator (like in message field context menu)
-scrollBarBg: #00000053 // default scroll bar current rectangle, the bar itself (like in chats list)
-scrollBarBgOver: #0000007A // default scroll bar current rectangle with mouse over it
-scrollBg: #0000001A // default scroll bar background
-scrollBgOver: #0000002C // default scroll bar background with mouse over the scroll bar
+scrollBarBg: #6e6a86 // default scroll bar current rectangle, the bar itself (like in chats list)
+scrollBarBgOver: #6e6a86 // default scroll bar current rectangle with mouse over it
+scrollBg: #1f1d2e80 // default scroll bar background
+scrollBgOver: #1f1d2e80 // default scroll bar background with mouse over the scroll bar
 smallCloseIconFg: #eb6f92 // small X icon (like in Show all sessions box to the right for sessions termination)
 smallCloseIconFgOver: smallCloseIconFg // small X icon with mouse over
 radialFg: windowFgActive // default radial loader line (like in Media Viewer when loading a photo)
@@ -252,10 +252,10 @@ historyPeerUserpicFg: windowFgActive // default userpic initials
 historyPeerSavedMessagesBg: historyPeer5UserpicBg // saved messages userpic background
 historyPeerSavedMessagesBg2: historyPeerSavedMessagesBg // saved messages userpic background
 historyPeerArchiveUserpicBg: dialogsUnreadBgMuted // archive folder userpic background
-historyScrollBarBg: #403d52 // scroll bar current rectangle, the bar itself in the chat view (adjusted)
-historyScrollBarBgOver: #403d52 // scroll bar current rectangle with mouse over it in the chat view (adjusted)
-historyScrollBg: #403d52 // scroll bar background (adjusted)
-historyScrollBgOver: #403d52 // scroll bar background with mouse over the scroll bar (adjusted)
+historyScrollBarBg: #6e6a86 // scroll bar current rectangle, the bar itself in the chat view (adjusted)
+historyScrollBarBgOver: #6e6a86 // scroll bar current rectangle with mouse over it in the chat view (adjusted)
+historyScrollBg: #1f1d2e80 // scroll bar background (adjusted)
+historyScrollBgOver: #1f1d2e80 // scroll bar background with mouse over the scroll bar (adjusted)
 msgInBg: windowBg // inbox message background
 msgInBgSelected: #403d52 // inbox selected message background (and background of selected text in those messages)
 msgOutBg: #26233a // outbox message background
@@ -471,4 +471,7 @@ sideBarIconFgActive: windowBgActive
 sideBarBadgeBg: #eb6f92
 sideBarBadgeBgMuted: #6e6a86
 sideBarBadgeFg: #e0def4
+emojiSubIconFgActive: #c4a7e7
+spellUnderline: #eb6f92
+songCoverOverlayFg: #31748f4d
 wallpaper: t.me/bg/Sa2AtaavfFADAAAAtscoNUeEYfU // link to cloud wallpaper

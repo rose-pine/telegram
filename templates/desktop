@@ -45,10 +45,10 @@ menuIconFgOver: windowFg // default popup menu item icon with mouse over
 menuSubmenuArrowFg: #373737 // default popup menu submenu arrow icon (like in message field context menu in case of RTL system language)
 menuFgDisabled: $muted // default popup menu item disabled text (like unavailable items in message field context menu)
 menuSeparatorFg: windowBgOver // default popup menu separator (like in message field context menu)
-scrollBarBg: #00000053 // default scroll bar current rectangle, the bar itself (like in chats list)
-scrollBarBgOver: #0000007A // default scroll bar current rectangle with mouse over it
-scrollBg: #0000001A // default scroll bar background
-scrollBgOver: #0000002C // default scroll bar background with mouse over the scroll bar
+scrollBarBg: $muted // default scroll bar current rectangle, the bar itself (like in chats list)
+scrollBarBgOver: $muted // default scroll bar current rectangle with mouse over it
+scrollBg: $surface/50 // default scroll bar background
+scrollBgOver: $surface/50 // default scroll bar background with mouse over the scroll bar
 smallCloseIconFg: $love // small X icon (like in Show all sessions box to the right for sessions termination)
 smallCloseIconFgOver: smallCloseIconFg // small X icon with mouse over
 radialFg: windowFgActive // default radial loader line (like in Media Viewer when loading a photo)
@@ -252,10 +252,10 @@ historyPeerUserpicFg: windowFgActive // default userpic initials
 historyPeerSavedMessagesBg: historyPeer5UserpicBg // saved messages userpic background
 historyPeerSavedMessagesBg2: historyPeerSavedMessagesBg // saved messages userpic background
 historyPeerArchiveUserpicBg: dialogsUnreadBgMuted // archive folder userpic background
-historyScrollBarBg: $highlightMed // scroll bar current rectangle, the bar itself in the chat view (adjusted)
-historyScrollBarBgOver: $highlightMed // scroll bar current rectangle with mouse over it in the chat view (adjusted)
-historyScrollBg: $highlightMed // scroll bar background (adjusted)
-historyScrollBgOver: $highlightMed // scroll bar background with mouse over the scroll bar (adjusted)
+historyScrollBarBg: $muted // scroll bar current rectangle, the bar itself in the chat view (adjusted)
+historyScrollBarBgOver: $muted // scroll bar current rectangle with mouse over it in the chat view (adjusted)
+historyScrollBg: $surface/50 // scroll bar background (adjusted)
+historyScrollBgOver: $surface/50 // scroll bar background with mouse over the scroll bar (adjusted)
 msgInBg: windowBg // inbox message background
 msgInBgSelected: $highlightMed // inbox selected message background (and background of selected text in those messages)
 msgOutBg: $overlay // outbox message background
@@ -471,4 +471,7 @@ sideBarIconFgActive: windowBgActive
 sideBarBadgeBg: $love
 sideBarBadgeBgMuted: $muted
 sideBarBadgeFg: $($text|$text|$base)
+emojiSubIconFgActive: $iris
+spellUnderline: $love
+songCoverOverlayFg: $($pine/30|$pine/30|$rose/30)
 wallpaper: $(t.me/bg/Sa2AtaavfFADAAAAtscoNUeEYfU|t.me/bg/Sa2AtaavfFADAAAAtscoNUeEYfU|t.me/bg/kEuy4ozG_VMBAAAAMc79KvNqm8g) // link to cloud wallpaper
