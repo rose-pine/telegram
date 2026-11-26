@@ -471,4 +471,7 @@ sideBarIconFgActive: windowBgActive
 sideBarBadgeBg: $love
 sideBarBadgeBgMuted: $muted
 sideBarBadgeFg: $($text|$text|$base)
+emojiSubIconFgActive: $iris
+spellUnderline: $love
+songCoverOverlayFg: $($pine/30|$pine/30|$rose/30)
 wallpaper: $(t.me/bg/Sa2AtaavfFADAAAAtscoNUeEYfU|t.me/bg/Sa2AtaavfFADAAAAtscoNUeEYfU|t.me/bg/kEuy4ozG_VMBAAAAMc79KvNqm8g) // link to cloud wallpaper

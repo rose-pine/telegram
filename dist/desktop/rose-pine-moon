@@ -471,4 +471,7 @@ sideBarIconFgActive: windowBgActive
 sideBarBadgeBg: #eb6f92
 sideBarBadgeBgMuted: #6e6a86
 sideBarBadgeFg: #e0def4
+emojiSubIconFgActive: #c4a7e7
+spellUnderline: #eb6f92
+songCoverOverlayFg: #3e8fb04d
 wallpaper: t.me/bg/Sa2AtaavfFADAAAAtscoNUeEYfU // link to cloud wallpaper
