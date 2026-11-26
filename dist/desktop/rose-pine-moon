@@ -45,10 +45,10 @@ menuIconFgOver: windowFg // default popup menu item icon with mouse over
 menuSubmenuArrowFg: #373737 // default popup menu submenu arrow icon (like in message field context menu in case of RTL system language)
 menuFgDisabled: #6e6a86 // default popup menu item disabled text (like unavailable items in message field context menu)
 menuSeparatorFg: windowBgOver // default popup menu separator (like in message field context menu)
-scrollBarBg: #00000053 // default scroll bar current rectangle, the bar itself (like in chats list)
-scrollBarBgOver: #0000007A // default scroll bar current rectangle with mouse over it
-scrollBg: #0000001A // default scroll bar background
-scrollBgOver: #0000002C // default scroll bar background with mouse over the scroll bar
+scrollBarBg: #6e6a86 // default scroll bar current rectangle, the bar itself (like in chats list)
+scrollBarBgOver: #6e6a86 // default scroll bar current rectangle with mouse over it
+scrollBg: #2a273f80 // default scroll bar background
+scrollBgOver: #2a273f80 // default scroll bar background with mouse over the scroll bar
 smallCloseIconFg: #eb6f92 // small X icon (like in Show all sessions box to the right for sessions termination)
 smallCloseIconFgOver: smallCloseIconFg // small X icon with mouse over
 radialFg: windowFgActive // default radial loader line (like in Media Viewer when loading a photo)
@@ -252,10 +252,10 @@ historyPeerUserpicFg: windowFgActive // default userpic initials
 historyPeerSavedMessagesBg: historyPeer5UserpicBg // saved messages userpic background
 historyPeerSavedMessagesBg2: historyPeerSavedMessagesBg // saved messages userpic background
 historyPeerArchiveUserpicBg: dialogsUnreadBgMuted // archive folder userpic background
-historyScrollBarBg: #44415a // scroll bar current rectangle, the bar itself in the chat view (adjusted)
-historyScrollBarBgOver: #44415a // scroll bar current rectangle with mouse over it in the chat view (adjusted)
-historyScrollBg: #44415a // scroll bar background (adjusted)
-historyScrollBgOver: #44415a // scroll bar background with mouse over the scroll bar (adjusted)
+historyScrollBarBg: #6e6a86 // scroll bar current rectangle, the bar itself in the chat view (adjusted)
+historyScrollBarBgOver: #6e6a86 // scroll bar current rectangle with mouse over it in the chat view (adjusted)
+historyScrollBg: #2a273f80 // scroll bar background (adjusted)
+historyScrollBgOver: #2a273f80 // scroll bar background with mouse over the scroll bar (adjusted)
 msgInBg: windowBg // inbox message background
 msgInBgSelected: #44415a // inbox selected message background (and background of selected text in those messages)
 msgOutBg: #393552 // outbox message background
